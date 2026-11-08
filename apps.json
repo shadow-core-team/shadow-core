@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "31754dac",
+    "name": "khalil-almuslim",
+    "cat": "tool",
+    "platform": "Android",
+    "version": "1.0",
+    "size": "9.59 MB",
+    "bytes": 9594114,
+    "date": "2026-11-09",
+    "url": "https://github.com/shadow-core-team/shadow-core/releases/download/apps/khalil-almuslim.apk",
+    "desc": "",
+    "notes": "",
+    "icon": "icons/khalil-almuslim-31754dac.png",
+    "kw": "ديني قرآن دين ادعيه تسبيح"
+  }
+]
